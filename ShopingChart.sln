@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopingChart", "ShopingChart\ShopingChart.csproj", "{72003A36-2425-4011-8056-E4F50FAD9CEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72003A36-2425-4011-8056-E4F50FAD9CEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72003A36-2425-4011-8056-E4F50FAD9CEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72003A36-2425-4011-8056-E4F50FAD9CEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72003A36-2425-4011-8056-E4F50FAD9CEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93A35089-4D16-4A32-A813-D847DAAEF89A}
+	EndGlobalSection
+EndGlobal
